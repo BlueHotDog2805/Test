@@ -1,0 +1,14 @@
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\bin\Debug\net8.0\Temperatuur.exe
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\bin\Debug\net8.0\Temperatuur.deps.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\bin\Debug\net8.0\Temperatuur.runtimeconfig.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\bin\Debug\net8.0\Temperatuur.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\bin\Debug\net8.0\Temperatuur.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\Temperatuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\Temperatuur.AssemblyInfoInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\Temperatuur.AssemblyInfo.cs
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\Temperatuur.csproj.CoreCompileInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\Temperatuur.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\refint\Temperatuur.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\Temperatuur.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\Temperatuur.genruntimeconfig.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Temperatuur\obj\Debug\net8.0\ref\Temperatuur.dll

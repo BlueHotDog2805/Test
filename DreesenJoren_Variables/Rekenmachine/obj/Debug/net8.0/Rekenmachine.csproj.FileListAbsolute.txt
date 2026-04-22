@@ -1,0 +1,14 @@
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\bin\Debug\net8.0\Rekenmachine.exe
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\bin\Debug\net8.0\Rekenmachine.deps.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\bin\Debug\net8.0\Rekenmachine.runtimeconfig.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\bin\Debug\net8.0\Rekenmachine.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\bin\Debug\net8.0\Rekenmachine.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\Rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\Rekenmachine.AssemblyInfoInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\Rekenmachine.AssemblyInfo.cs
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\Rekenmachine.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\refint\Rekenmachine.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\Rekenmachine.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\Rekenmachine.genruntimeconfig.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Rekenmachine\obj\Debug\net8.0\ref\Rekenmachine.dll

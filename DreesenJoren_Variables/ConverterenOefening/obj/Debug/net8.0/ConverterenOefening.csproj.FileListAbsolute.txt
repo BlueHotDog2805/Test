@@ -1,0 +1,14 @@
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\bin\Debug\net8.0\ConverterenOefening.exe
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\bin\Debug\net8.0\ConverterenOefening.deps.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\bin\Debug\net8.0\ConverterenOefening.runtimeconfig.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\bin\Debug\net8.0\ConverterenOefening.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\bin\Debug\net8.0\ConverterenOefening.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ConverterenOefening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ConverterenOefening.AssemblyInfoInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ConverterenOefening.AssemblyInfo.cs
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ConverterenOefening.csproj.CoreCompileInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ConverterenOefening.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\refint\ConverterenOefening.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ConverterenOefening.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ConverterenOefening.genruntimeconfig.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\ConverterenOefening\obj\Debug\net8.0\ref\ConverterenOefening.dll

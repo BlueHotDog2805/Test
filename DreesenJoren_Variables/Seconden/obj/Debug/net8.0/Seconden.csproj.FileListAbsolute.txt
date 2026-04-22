@@ -1,0 +1,14 @@
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\bin\Debug\net8.0\Seconden.exe
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\bin\Debug\net8.0\Seconden.deps.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\bin\Debug\net8.0\Seconden.runtimeconfig.json
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\bin\Debug\net8.0\Seconden.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\bin\Debug\net8.0\Seconden.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\Seconden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\Seconden.AssemblyInfoInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\Seconden.AssemblyInfo.cs
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\Seconden.csproj.CoreCompileInputs.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\Seconden.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\refint\Seconden.dll
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\Seconden.pdb
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\Seconden.genruntimeconfig.cache
+C:\Users\JorenDreesen\OneDrive - Sint-Franciscuscollege\2025-2026\software\Seconden\obj\Debug\net8.0\ref\Seconden.dll
