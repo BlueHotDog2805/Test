@@ -39,6 +39,7 @@
                     break;
             }
             Console.ReadKey();
+            Console.WriteLine("test");
         }
     }
 }
